@@ -50,11 +50,6 @@ a:hover{
   }
 }
 
-#photo_profil{
-  margin: 10px;
-  border-radius: 3px
-}
-
 .container{
 	background-color: white;
 	padding: 30px
@@ -62,7 +57,7 @@ a:hover{
 	box-shadow: 0 10px 30px rgba(0,0,0,0.1)
 }
 .img-circle {
-  border-radius: 50%;
+  border-radius: 3px;
 }
 .text-center {
   text-align: center;
