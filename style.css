@@ -49,6 +49,12 @@ a:hover{
     width: 300px;
   }
 }
+
+#photo_profil{
+  margin: 10px;
+  border-radius: 3px
+}
+
 .container{
 	background-color: white;
 	padding: 30px
